@@ -1,0 +1,14 @@
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\bin\Debug\Creating_PDF.exe.config
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\bin\Debug\Creating_PDF.exe
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\bin\Debug\Creating_PDF.pdb
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.Form1.resources
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.Properties.Resources.resources
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.csproj.GenerateResource.Cache
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.exe
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.pdb
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.csprojResolveAssemblyReference.cache
+c:\users\claveria\documents\visual studio 2012\Projects\Creating_PDF\Creating_PDF\bin\Debug\itextsharp.xml
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.exe.licenses
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Creating_PDF\Creating_PDF\bin\Debug\Creating_PDF.exe.config
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.exe
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Creating_PDF\Creating_PDF\obj\Debug\Creating_PDF.pdb
